@@ -1,0 +1,21 @@
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Release\Generic WFA.exe.config
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Release\Generic WFA.exe.manifest
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Release\Generic WFA.application
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Release\Generic WFA.exe
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Release\Generic WFA.pdb
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Common.About.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Common.AboutUs.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Common.Equipment.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Common.EquipmentModal.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Administration.Home.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Administration.User.UserModal.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Administration.Users.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.AdminUsers.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.Common.Report.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Forms.User.MonitoringModal.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic_WFA.Properties.Resources.resources
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\MasbateAir.csproj.GenerateResource.Cache
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic WFA.exe.manifest
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic WFA.application
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic WFA.exe
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\obj\Release\Generic WFA.pdb

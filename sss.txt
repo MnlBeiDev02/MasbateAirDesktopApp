@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: MasbateAir, Configuration: Debug Any CPU ------
+1>  MasbateAir -> C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.exe
+Building MasbateAir...
+2>------ Publish started: Project: MasbateAir, Configuration: Debug Any CPU ------
+Connecting to 'C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\'...
+Publishing files...
+Publish success.
+C:\Users\Seeto Kui POM\Documents\Visual Studio 2013\Projects\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========

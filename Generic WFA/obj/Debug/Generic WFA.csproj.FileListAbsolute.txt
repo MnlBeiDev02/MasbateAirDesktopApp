@@ -1,0 +1,16 @@
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.exe
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.exe.config
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.csprojResolveAssemblyReference.cache
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic_WFA.Forms.Administration.Admin_Home.resources
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic_WFA.Forms.Administration.User.UserModal.resources
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic_WFA.Forms.Administration.Users.resources
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic_WFA.AdminUsers.resources
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic_WFA.Properties.Resources.resources
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.csproj.GenerateResource.Cache
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.exe
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.pdb
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.pdb
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.exe.manifest
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\bin\Debug\Generic WFA.application
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.exe.manifest
+C:\Users\Seeto Kui POM\documents\visual studio 2013\Projects\Generic WFA\Generic WFA\obj\Debug\Generic WFA.application
